@@ -1,4 +1,4 @@
-bashblog
+bash2blog
 ========
 
 A single Bash script to create blogs. 
