@@ -1,5 +1,10 @@
 bash2blog
 ========
+bash2blog: An Enhanced bashblog Fork
+
+bash2blog is an enhanced version of the original bashblog by cfenollosa, reimagined to offer even greater simplicity in blogging. This single Bash script allows for quick and easy blog post creation, directly to a public server folder, without any special requirements or dependencies. It’s designed to be ultra-simple, functional across GNU/Linux, OSX, and BSD systems.
+
+========
 
 A single Bash script to create blogs. 
 
