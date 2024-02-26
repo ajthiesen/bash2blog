@@ -27,9 +27,9 @@ global_variables() {
     global_url="http://example.com/blog"
 
     # Your name
-    global_author="John Smith"
+    global_author="John Doe"
     # You can use twitter or facebook or anything for global_author_url
-    global_author_url="http://twitter.com/example" 
+    # global_author_url="http://twitter.com/example" 
     # Your email
     global_email="john@smith.com"
 
@@ -40,8 +40,8 @@ global_variables() {
     # embedding code, put it on global_analytics
     # If you have custom analytics code (i.e. non-google) or want to use the Universal
     # code, leave global_analytics empty and specify a global_analytics_file
-    global_analytics=""
-    global_analytics_file=""
+    # global_analytics=""
+    # global_analytics_file=""
 
     # Leave this empty (i.e. "") if you don't want to use feedburner, 
     # or change it to your own URL
