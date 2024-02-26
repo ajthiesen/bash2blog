@@ -48,17 +48,17 @@ global_variables() {
     global_feedburner=""
 
     # Change this to your username if you want to use twitter for comments
-    global_twitter_username=""
+    # global_twitter_username=""
     # Default image for the Twitter cards. Use an absolute URL
-    global_twitter_card_image=""
+    # global_twitter_card_image=""
     # Set this to false for a Twitter button with share count. The cookieless version
     # is just a link.
-    global_twitter_cookieless="true"
+    # global_twitter_cookieless="true"
     # Default search page, where tweets more than a week old are hidden
-    global_twitter_search="twitter"
+    # global_twitter_search="twitter"
 
     # Change this to your disqus username to use disqus for comments
-    global_disqus_username=""
+    # global_disqus_username=""
 
 
     # Blog generated files
